@@ -1,0 +1,13 @@
+
+body
+{
+background:#F1E0CB; /*color de fondo*/
+color:#333333; /*color de texto*/
+}
+
+
+img
+{
+border-radius:20%; /*herramienta para redondear los bordes de una caja*/
+box-shadow: 8px 8px 15px #ccc; /*efecto de sombra alrededor del marco*/
+}
